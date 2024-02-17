@@ -2,7 +2,7 @@
 
     "name": "peymanmanteali/laravel-subscription",
     "description": "laravel payment service",
-    "type": "metapackage",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "SubscriptionService\\": "SubscriptionService/src/"
