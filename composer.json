@@ -5,7 +5,7 @@
     "type": "metapackage",
     "autoload": {
         "psr-4": {
-            "SubscriptionService\\": "subscriptionService/src/"
+            "SubscriptionService\\": "SubscriptionService/src/"
         }
     },
     "extra": {
