@@ -1,6 +1,6 @@
 {
 
-    "name": "subscription/service",
+    "name": "peymanmanteali/laravel-subscription",
     "description": "laravel payment service",
     "type": "metapackage",
     "autoload": {
